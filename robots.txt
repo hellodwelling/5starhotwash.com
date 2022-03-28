@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://5starhotwash.com/sitemap.xml
